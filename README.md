@@ -13,15 +13,19 @@ A simple To-Do list application for task management using Flask and Python.
 ## Setup Instructions
 
 1. Clone the repository:
+   ```bash
    git clone https://github.com/GursagarSandhu/ToDoApp.git
    cd ToDoApp
-2. Create Virtual enviorment:
+3. Create Virtual enviorment:
+   ```bash
    python -m venv venv
    source venv/bin/activate
-3. Install dependencies:
+5. Install dependencies:
+   ```bash
    pip install flask
    pip install SQLAlchemy
-4. start flask and run:
+7. start flask and run:
+   ```bash
    Flask run
 
 
