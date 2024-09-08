@@ -5,6 +5,7 @@ A simple To-Do list application for task management using Flask and Python.
 - Add, update, and delete tasks
 - Mark tasks as completed
 - Filter tasks by status
+- to make it easy  all task our showed and not include GET
 
 # Prerequisites
 - [Python 3.x](https://www.python.org/downloads/)
